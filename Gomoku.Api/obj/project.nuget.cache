@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8TcfjrPjM5GIw5Oz0SGZLTdifRubO2RNJy87EKhyULBmCGiM3jd6bIgKsuN4OjFbkkSL3jBV2FAnkbr65//gg==",
+  "success": true,
+  "projectFilePath": "/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Api/Gomoku.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/jon/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/jon/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/jon/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/jon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/jon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/jon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

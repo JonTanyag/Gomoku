@@ -1,0 +1,15 @@
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/bin/Debug/net6.0/Gomoku.Infrastructure.deps.json
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/bin/Debug/net6.0/Gomoku.Infrastructure.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/bin/Debug/net6.0/Gomoku.Infrastructure.pdb
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.csproj.AssemblyReference.cache
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.AssemblyInfoInputs.cache
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.AssemblyInfo.cs
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/refint/Gomoku.Infrastructure.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.pdb
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/ref/Gomoku.Infrastructure.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/bin/Debug/net6.0/Gomoku.Core.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/bin/Debug/net6.0/Gomoku.Core.pdb
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/obj/Debug/net6.0/Gomoku.Infrastructure.csproj.CopyComplete

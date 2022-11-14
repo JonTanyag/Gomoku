@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gomoku.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Gomoku.Core": "1.0.0"
+        },
+        "runtime": {
+          "Gomoku.Infrastructure.dll": {}
+        }
+      },
+      "Gomoku.Core/1.0.0": {
+        "runtime": {
+          "Gomoku.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gomoku.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gomoku.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

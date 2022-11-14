@@ -1,0 +1,12 @@
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/bin/Debug/net6.0/Gomoku.Core.deps.json
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/bin/Debug/net6.0/Gomoku.Core.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/bin/Debug/net6.0/Gomoku.Core.pdb
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/Gomoku.Core.csproj.AssemblyReference.cache
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/Gomoku.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/Gomoku.Core.AssemblyInfoInputs.cache
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/Gomoku.Core.AssemblyInfo.cs
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/Gomoku.Core.csproj.CoreCompileInputs.cache
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/Gomoku.Core.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/refint/Gomoku.Core.dll
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/Gomoku.Core.pdb
+/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Core/obj/Debug/net6.0/ref/Gomoku.Core.dll
