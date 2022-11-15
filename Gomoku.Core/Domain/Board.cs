@@ -8,7 +8,7 @@ namespace Gomoku.Core.Domain
         }
         public int Column { get; set; }
         public int Row { get; set; }
-        public bool isHit { get; set; }
+        public int Player { get; set; }
     }
 }
 

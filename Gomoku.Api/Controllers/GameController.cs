@@ -49,6 +49,13 @@ namespace Gomoku.Api.Controllers
             return latestBoard;
         }
 
+        [HttpPut()]
+        public async Task<int> CheckGame([FromBody] List<Board> board)
+        {
+            var latestBoard = await _playService.CheckGame(board);
+            return latestBoard;
+        }
+
         // DELETE api/values/5
         [HttpDelete("{id}")]
         public void Delete(int id)

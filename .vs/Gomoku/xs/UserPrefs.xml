@@ -1,29 +1,42 @@
 ﻿<Properties StartupConfiguration="{C0F5B2A3-CC8F-40C4-8B4A-C498AE49799F}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Gomoku.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/Service/PlayService.cs" relfile="Gomoku.Infrastructure/Service/PlayService.cs" line="55" column="1" />
+      <Breakpoint file="/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Infrastructure/Service/PlayService.cs" relfile="Gomoku.Infrastructure/Service/PlayService.cs" line="25" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Gomoku.Infrastructure/Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gomoku.Infrastructure/Service/PlayService.cs">
     <Files>
-      <File FileName="Gomoku.Core/Class1.cs" Line="1" Column="1" />
-      <File FileName="Gomoku.Infrastructure/Class1.cs" Line="1" Column="1" />
+      <File FileName="Gomoku.Api/Controllers/LoginController.cs" />
+      <File FileName="Gomoku.Api/Controllers/GameController.cs" />
+      <File FileName="Gomoku.Core/Interface/IPlayService.cs" />
+      <File FileName="Gomoku.Core/Domain/Player.cs" />
+      <File FileName="Gomoku.Infrastructure/Service/PlayService.cs" Line="56" Column="12" />
+      <File FileName="Gomoku.Api/Program.cs" />
+      <File FileName="Gomoku.Core/Interface/ILogin.cs" />
+      <File FileName="Gomoku.Core/Domain/Board.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Gomoku" expanded="True">
-            <Node name="Gomoku.Api" expanded="True" />
-            <Node name="Gomoku.Core" expanded="True" selected="True" />
-            <Node name="Gomoku.Infrastructure" expanded="True" />
+            <Node name="Gomoku.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Gomoku.Core" expanded="True">
+              <Node name="Domain" expanded="True" />
+              <Node name="Interface" expanded="True" />
+            </Node>
+            <Node name="Gomoku.Infrastructure" expanded="True">
+              <Node name="Service" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Gomoku.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

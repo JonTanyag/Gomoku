@@ -6,8 +6,7 @@ namespace Gomoku.Core.Interface
     public interface IPlayService
     {
         Task<List<Board>> HitBoard(int playerId, List<Board> board, string coordinate);
-        Task<bool> CheckBoardStatus();
-        Task<bool> CheckGame();
+        Task<int> CheckGame(List<Board> board);
         Task<List<Board>> NewBoard(int col, int row);
 
     }

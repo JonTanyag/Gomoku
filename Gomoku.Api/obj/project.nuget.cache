@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B8TcfjrPjM5GIw5Oz0SGZLTdifRubO2RNJy87EKhyULBmCGiM3jd6bIgKsuN4OjFbkkSL3jBV2FAnkbr65//gg==",
+  "dgSpecHash": "HR1z2PVDPA0OK252NCQ+LI1WuuKqTd6tFEm76FBxknwk3QTTDYFwQFkGF6eBgsimoeh7OLD24Lj2nMEmtz0KsA==",
   "success": true,
   "projectFilePath": "/Users/jon/Projects/PeopleGig/Gomoku/Gomoku.Api/Gomoku.Api.csproj",
   "expectedPackageFiles": [
